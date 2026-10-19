@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+[<!DOCTYPE html>
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
@@ -368,3 +368,4 @@
   </script>
 </body>
 </html>
+](https://minhquan1806.github.io/TRUSTAI/)
